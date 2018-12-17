@@ -22,6 +22,13 @@
     float: left;
 }
 
+
+    margin-right: 700px;
+}
+.row
+{
+    margin-top: 120px;
+}
 .column {
     float: left;
     width: 50%;
@@ -87,4 +94,7 @@
   .person
   {
       background-color: grey;
+
+      height: 400px;
+    
   }
